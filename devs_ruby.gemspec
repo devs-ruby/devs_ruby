@@ -1,6 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'devs_ruby/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "devs_ruby"
@@ -9,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["franceschini.romain@gmail.com"]
   spec.summary       = %q{Discrete EVent system Specification for Ruby.}
   spec.description   = %q{A metadistribution of DEVS including common models, examples and extensions}
-  spec.homepage      = "https://github.com/romain1189/devs"
+  spec.homepage      = "https://github.com/romain1189/devs_ruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
