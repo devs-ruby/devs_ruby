@@ -1,7 +1,7 @@
 # Discrete EVent system Specification for Ruby
 
-This is a meta-distribution of [DEVS][] including all currently available
-plugins
+This is a meta-distribution of [DEVS](http://github.com/romain1189/devs)
+including all currently available plugins
 
 * <http://github.com/romain1189/devs_ruby>
 
