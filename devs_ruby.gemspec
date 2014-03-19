@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'devs-models', '~> 0.5'
   spec.add_runtime_dependency 'devs-examples', '~> 0.5'
   unless RUBY_PLATFORM =~ /java/
-    spec.add_runtime_dependency, 'devs-ext', '~> 0.5'
+    spec.add_runtime_dependency 'devs-ext', '~> 0.5'
   end
 
   spec.required_ruby_version = '>= 1.9.2'
