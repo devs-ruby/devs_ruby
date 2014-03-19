@@ -11,10 +11,10 @@ including all currently available plugins
 
 ## Dependencies
 
-* [DEVS][] (>= 0.5)
-* [DEVS::Models][] (>= 0.5)
-* [DEVS::Examples][] (>= 0.5)
-* [DEVS::Ext][] (>= 0.5)
+* [DEVS](http://github.com/romain1189/devs) (>= 0.5)
+* [DEVS::Models](http://github.com/romain1189/devs-models) (>= 0.5)
+* [DEVS::Examples](http://github.com/romain1189/devs-examples) (>= 0.5)
+* [DEVS::Ext](http://github.com/romain1189/devs-ext) (>= 0.5)
 
 ## Installation
 
